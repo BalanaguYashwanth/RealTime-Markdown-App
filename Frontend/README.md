@@ -24,6 +24,12 @@ cd Frontend
 npm install
 ```
 
+### Load .env
+
+```bash 
+copy contents from sample.env to .env
+```
+
 ## Run locally 🚀
 
 ```bash 
