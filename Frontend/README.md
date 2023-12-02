@@ -1,6 +1,6 @@
 # Real-Time Markdown App
 
-This project was created using React (https://github.com/facebook/create-react-app).
+Frontend was created using React with javascript (https://github.com/facebook/create-react-app).
 
 # Prerequisite	
 
